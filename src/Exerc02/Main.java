@@ -6,9 +6,7 @@ public class Main {
         //Tipo nomedoObjeto = new Tipo();
 
         Carro meuCarro = new Carro();
-
         meuCarro.editarCarro();
-
         meuCarro.imprimirCarro();
 
     }

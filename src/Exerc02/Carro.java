@@ -2,7 +2,7 @@ package Exerc02;
 
 import java.util.Scanner;
 
-public class   Carro {
+public class Carro {
 
     //Criar os atributos da classe carro
     String nome;

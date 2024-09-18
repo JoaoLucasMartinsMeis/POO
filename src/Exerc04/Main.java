@@ -8,8 +8,6 @@ public class Main {
         Astronauta.setFichaTecnica();
         Astronauta.setAvaliacoes();
         Astronauta.getFichaTecnica();
-
-
         Astronauta.setAvaliacoes();
         Astronauta.getFichaTecnica();
 

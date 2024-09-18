@@ -2,7 +2,7 @@ package Exerc04;
 
 import java.util.Scanner;
 
-public class                                                                      Musica {
+public class Musica {
 
     String titulo;
     String artista;
