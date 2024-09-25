@@ -1,4 +1,4 @@
-package Pessoa;
+package Pratica03.Exerc12;
 
 public class main {
     public static void main(String[] args) {

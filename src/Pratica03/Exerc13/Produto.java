@@ -1,4 +1,4 @@
-package Produto;
+package Pratica03.Exerc13;
 import java.util.Scanner;
 
 public class Produto {

@@ -1,4 +1,4 @@
-package Pessoa;
+package Pratica03.Exerc12;
 
 public class idadePessoa {
 

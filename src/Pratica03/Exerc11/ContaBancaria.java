@@ -1,4 +1,4 @@
-package ContaBancaria;
+package Pratica03.Exerc11;
 
 public class ContaBancaria {
     private int numeroConta;

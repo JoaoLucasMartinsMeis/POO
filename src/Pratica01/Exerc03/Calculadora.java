@@ -1,4 +1,4 @@
-package Exerc03;
+package Pratica01.Exerc03;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Exerc01;
+package Pratica01.Exerc01;
 
 public class Pessoa {
 
